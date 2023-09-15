@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>이/np 로써/jkb 삼성/nnp 은/jx 김상수/nnp 에/jkb 잇/vv 어/ec 윤성환/nnp 등/nnb 내부/nng fa/sl 를/jko 모두/mag 잔류/nng 시키/xsv 며/ec 30/sn 일/nnb 홀가분하/va 게/ec 일본/nnp 오키나와행/nnp 비행/nng 기/xsn 에/jkb 오르/vv 게/ec 되/vv 었/ep 다/ef</a>
+<a name="2">[2]</a> <a href="#2" id=2>삼성/nnp 은/jx 29/sn 일/nnb 윤성환/nnp 과/jc 계약/nng 기간/nng 1/sn 년/nnb 에/jkb 총액/nng 10/sn 억/nr 원/nnb 에/jkb 계약/nng 을/jko 맺/vv 었/ep 다고/ec 발표/nng 하/xsv 었/ep 다/ef</a>
+<a name="3">[3]</a> <a href="#3" id=3>삼성구단/nnp 도/jx 불혹/nng 을/jko 앞두/vv ㄴ/etm 윤성환/nnp 의/jkg 불/xpn 확실/nng 성/xsn 때문/nnb 에/jkb 80/sn 억/nr 원/nnb 규모/nng 의/jkg 첫/mm 번째/nnb fa/sl 대형/nng 계약/nng 때/nng 와/jkb 는/jx 크/va ㄴ/etm 차이/nng 를/jko 보이/vv 었/ep 다/ef</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>남양주시/nnp 는/jx 이순권/nnp 회장/nng 을/jko 비롯하/vv ㄴ/etm 금곡동/nnp 상인/nng 들/xsn 이/jks 금곡/nng 상권/nng 활성/nng 화/xsn 의/jkg 뜻/nng 을/jko 모으/vv 아/ec 금곡홍유릉/nnp 상점/nng 가/xsn 상인/nng 회/xsn 를/jko 창립ㆍ/nng 등록/nng 신청/nng 하/xsv 었/ep 다고/ec 8/sn 일/nnb 밝히/vv 었/ep 다/ef</a>
+<a name="2">[2]</a> <a href="#2" id=2>한편/nng ,/sp 지난해/nng 남양주시/nnp 에/jkb 최초/nng 로/jkb 등록/nng 되/xsv ㄴ/etm 장현/nnp 전통/nng 시장/nng 의/jkg 경우/nng 2018/sn 년/nnb 전통/nng 시장/nng 및/maj 상점/nng 가/xsn 활성/nng 화/xsn 지원/nng 공모/nng 사업/nng 을/jko 통하/vv 어/ec 시장/nng 매니저/nng 사업/nng 에/jkb 선정/nng 되/xsv 어/ec 전통/nng 시장/nng 내/nnb 매니저/nng 가/jks 근무/nng 하/xsv 어/ec 시장/nng 상인/nng 들/xsn 의/jkg 행정/nng 보조/nng 를/jko 지원/nng 하/xsv 고/ec 있/vx 으며/ec ,/sp 시설/nng 현대/nng 화/xsn 사업/nng 에/jkb 도/jx 선정/nng 되/xsv 면서/ec 국ㆍ/nng 시비/nng 등/nnb 총/mm 1/sn 억/nr 8/sn 천만/nr 원/nnb 의/jkg 예산/nng 을/jko 확보/nng 하/xsv 어/ec 시설/nng 개선/nng 공사/nng 진행/nng 을/jko 앞두/vv 고/ec 있/vx 다/ef</a>
+<a name="3">[3]</a> <a href="#3" id=3>이/np 에/jkb 상인/nng 들/xsn 은/jx 스스로/mag 상권/nng 을/jko 살리/vv 기/etn 위하/vv 어/ec 상인/nng 회/xsn 결성/nng 의/jkg 필요/nng 성/xsn 을/jko 모색/nng 하/xsv 었/ep 다/ef</a>
+</body>
+</html>

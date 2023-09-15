@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>일단/mag 굴/vv 는/etm 지나/vv ㄴ/etm 29/sn 일/nnb 영상/nng 회의/nng 실/xsn 에서/jkb 인천대/nnp 산학/nng 협력/nng 단/xsn 과/jc 고남석/nnp 구청/nng 장/xsn 등/nnb 구/xpn 관계/nng 자/xsn ,/sp 구/nng 의원/nng 등/nnb 이/jks 참석/nng 하/xsv ㄴ/etm 자리/nng 에서/jkb ‘/ss 연수/nnp 구/nng 대표/nng 도서/nng 관/xsn 건립/nng 타당/nng 성/xsn 검토/nng 최종/nng 용역/nng 보고/nng 회/xsn ’/ss 를/jko 열/vv 었/ep 다/ef</a>
+<a name="2">[2]</a> <a href="#2" id=2>30/sn 일/nnb 구/nng 에/jkb 따르/vv 면/ec 송도동/nnp 115/sn -/so 2/sn 번지/nng 일대/nng 에/jkb 건립/nng 하/xsv ㄹ/etm 도서/nng 관/xsn 은/jx 독서/nng 문화/nng 와/jc 디지털/nng ,/sp 커뮤니티/nng 가/jks 융합/nng 되/xsv ㄴ/etm 친/xpn 환경/nng 핵심/nng 인프라/nng 시설/nng 로/jkb 추진/nng 되/xsv ㄴ다/ef</a>
+<a name="3">[3]</a> <a href="#3" id=3>굴/vv 는/etm 9/sn 천/nr 427/sn ㎡/sw 부지/nng 에/jkb 지하/nng 1/sn 층/nng ,/sp 지상/nng 4/sn 층/nng 규모/nng 로/jkb 짓/vv 어/ec 지/vx 는/etm 본관/nng 에/jkb 는/jx 어린이/nng 자료/nng 실/xsn ,/sp 카페테리아/nng ,/sp 개방/nng 형/xsn 열람/nng 공간/nng ,/sp 디지털/nng 자료/nng 실/xsn 메이커/nng 스페이스/nng ,/sp 프로그램/nng 실/xsn ,/sp 강당/nng 등/nnb 을/jko 마련/nng 하/xsv ㄹ/etm 예정/nng 이/vcp 다/ef</a>
+</body>
+</html>

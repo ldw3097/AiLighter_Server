@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>12/sn 일/nnb 시/nng 에/jkb 따르/vv 면/ec 박남춘/nnp 인천/nnp 시장/nng 은/jx 이날/nng 산둥성/nnp 을/jko 방문/nng 하/xsv 어/ec 지난/nng (/ss 濟南/sh )/ss 시/nng 왕중린/nnp (/ss 王忠林/sh )/ss 서기/nng 와/jc 산둥성/nnp 류자이/nnp (/ss 劉家義/sh )/ss 서기/nng 를/jko 차례/nng 로/jkb 접견/nng 하/xsv 며/ec 상호/nng 협력/nng 발전/nng 방안/nng 을/jko 논의/nng 하/xsv 었/ep 다/ef</a>
+<a name="2">[2]</a> <a href="#2" id=2>박/nnp 시장/nng ,/sp 류자/nnp 이/jks 서기/nng 와/jc 접견/nng 공동/nng 포럼/nng ·/sp 청/nng 소년/nng 교류/nng 제안/nng 인천시/nnp 가/jks 중국/nnp 산둥/nnp (/ss 山東/sh )/ss 성/nng 과/jc 우호/nng 관계/nng 를/jko 넘/vv 어/ec ‘/ss 친구/nng 도시/nng ’/ss 로/jkb 나아가/vv 는/etm 첫/mm 발/nng 을/jko 내디디/vv 었/ep 다/ef</a>
+<a name="3">[3]</a> <a href="#3" id=3>박/nnp 시장/nng 은/jx 이/np 같/va 은/etm 관계/nng 를/jko 바탕/nng 으로/jkb 두/mm 도시/nng 가/jks 우호/nng 관계/nng 보다/jkb 더/mag 가깝/va ㄴ/etm 친구/nng 도시/nng 로/jkb 발전/nng 하/xsv 어야/ec 하/vx ㄴ다는/etm 판단/nng 이/vcp 다/ef</a>
+</body>
+</html>

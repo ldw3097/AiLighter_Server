@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>박/nnp 시장/nng 은/jx 이날/nng 류/nnp 서기/nng 와/jkb 의/jkg 접견/nng 에서/jkb 시/nng 와/jc 산둥성/nnp 간/nnb 우호/nng 교류/nng 협력/nng 관계/nng 를/jko 한층/mag 격상/nng 시키/xsv ㄹ/etm ‘/ss (/ss 가칭/nng )/ss 인천/nnp -/so 산둥/nnp 포럼/nng ’/ss 공동/nng 추진/nng 을/jko 제안/nng 하/xsv 었/ep 다/ef</a>
+<a name="2">[2]</a> <a href="#2" id=2>박/nnp 시장/nng ,/sp 류자/nnp 이/jks 서기/nng 와/jc 접견/nng 공동/nng 포럼/nng ·/sp 청/nng 소년/nng 교류/nng 제안/nng 인천시/nnp 가/jks 중국/nnp 산둥/nnp (/ss 山東/sh )/ss 성/nng 과/jc 우호/nng 관계/nng 를/jko 넘/vv 어/ec ‘/ss 친구/nng 도시/nng ’/ss 로/jkb 나아가/vv 는/etm 첫/mm 발/nng 을/jko 내디디/vv 었/ep 다/ef</a>
+<a name="3">[3]</a> <a href="#3" id=3>특히/mag 인천/nnp 지역/nng 기초/nng 자치/nng 단체/nng 중/nnb 6/sn 개/nnb 군/nng ·/sp 구/nng 가/jks 산둥성/nnp 11/sn 개/nnb 도시/nng 와/jc 우호/nng 결연/nng 을/jko 맺/vv 고/ec 있/vx 는/etm 등/nnb 인천/nnp 과/jc 산둥성/nnp 은/jx 활발하/va ㄴ/etm 교류/nng 가/jks 이루/vv 어/ec 지/vv 고/ec 있/vx 다/ef</a>
+</body>
+</html>

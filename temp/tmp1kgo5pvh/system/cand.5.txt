@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>삼성/nnp 라이온즈/nnp 가/jks 내부/nng 프리에이전트/nng (/ss fa/sl )/ss 윤성환/nnp (/ss 38/sn ·/sp 사진/nng )/ss 과/jc 극적/nng 으로/jkb 협상/nng 을/jko 타결/nng 하/xsv 었/ep 다/ef</a>
+<a name="2">[2]</a> <a href="#2" id=2>윤성환/nnp 은/jx 2015/sn 시즌/nng 을/jko 앞두/vv 고/ec 삼성/nnp 과/jc 4/sn 년/nnb 총/mm 80/sn 억/nr 원/nnb 에/jkb 생애/nng 첫/mm fa/sl 계약/nng 을/jko 맺/vv 었/ep 다/ef</a>
+<a name="3">[3]</a> <a href="#3" id=3>윤성환/nnp 은/jx 이/mm 기간/nng 동안/nng kbo/sl 리그/nng 에서/jkb 가장/mag 꾸준하/va ㄴ/etm 선발/nng 투수/nng 이/vcp 라는/etm 평가/nng 를/jko 받/vv 았/ep 다/ef</a>
+</body>
+</html>

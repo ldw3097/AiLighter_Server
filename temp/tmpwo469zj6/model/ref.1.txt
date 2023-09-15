@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>남양주시/nnp 금곡홍유릉/nnp 상점/nng 가/xsn 가/jks 상인/nng 회/xsn 등록/nng 을/jko 마치/vv 어/ec 침체/nng 되/xsv ㄴ/etm 금곡동/nnp 에/jkb 상권/nng 활성/nng 화/xsn 의/jkg 신호/nng 탄/nng 이/jkc 되/vv ㄹ/etm 것/nnb 으로/jkb 기대/nng 를/jko 모으/vv 고/ec 있/vx 다/ef</a>
+<a name="2">[2]</a> <a href="#2" id=2>금곡홍유릉/nnp 상점/nng 가/xsn 상인/nng 회/xsn 는/jx 남양주장현/nnp 전통/nng 시장/nng 상인/nng 회/xsn 에/jkb 잇/vv 어/ec 두/mm 번/nnb 째/xsn 로/jkb 시/nng 에/jkb 등록/nng 되/xsv 어/ec 관련/nng 법/nng 에/jkb 따르/vv 아/ec 앞/nng 으로/jkb 정부/nng 공모/nng 사업/nng 에/jkb 선정/nng 되/xsv 면/ec 시설/nng 현대/nng 화/xsn 사업/nng ,/sp 주차/nng 환경/nng 개선/nng 사업/nng ,/sp 공동/nng 마케팅/nng 지원/nng 사업/nng 등/nnb 각종/nng 사업/nng 비/xsn 를/jko 지원/nng 받/vv 을/etm 수/nnb 있/va 고/ec 온누리/nng 상품/nng 권/xsn 도/jx 사용/nng 하/xsv ㄹ/etm 수/nnb 있/va 다/ef</a>
+<a name="3">[3]</a> <a href="#3" id=3>시/nng 는/jx 이번/nng 상점/nng 가/xsn 상인/nng 회/xsn 등록/nng 과/jkb 더불/vv 어/ec 향후/nng 상권/nng 분석/nng 을/jko 통하/vv 어/ec 주변/nng 상권/nng 및/maj 지역/nng 경제/nng 활성/nng 화/xsn 를/jko 위하/vv ㄴ/etm 다양/nng 하/xsa ㄴ/etm 방법/nng 을/jko 모색/nng 하/xsv 고/ec 향후/nng 상권/nng 활성/nng 화/xsn 를/jko 위하/vv 어/ec 상인/nng 회/xsn 로/jkb 등록/nng 가능/nng 하/xsa ㄴ/etm 곳/nng 을/jko 지속/nng 적/xsn 으로/jkb 발굴/nng 하/xsv ㄹ/etm 계획/nng 이/vcp 다/ef</a>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<ROUGE-EVAL version="1.55">
+    <EVAL ID="1">
+        <MODEL-ROOT>../temp/tmpwo469zj6/model</MODEL-ROOT>
+        <PEER-ROOT>../temp/tmpwo469zj6/system</PEER-ROOT>
+        <INPUT-FORMAT TYPE="SEE">
+        </INPUT-FORMAT>
+        <PEERS>
+            <P ID="1">cand.0.txt</P>
+        </PEERS>
+        <MODELS>
+            <M ID="A">ref.0.txt</M>
+        </MODELS>
+    </EVAL>
+
+    <EVAL ID="2">
+        <MODEL-ROOT>../temp/tmpwo469zj6/model</MODEL-ROOT>
+        <PEER-ROOT>../temp/tmpwo469zj6/system</PEER-ROOT>
+        <INPUT-FORMAT TYPE="SEE">
+        </INPUT-FORMAT>
+        <PEERS>
+            <P ID="1">cand.1.txt</P>
+        </PEERS>
+        <MODELS>
+            <M ID="A">ref.1.txt</M>
+        </MODELS>
+    </EVAL>
+
+    <EVAL ID="3">
+        <MODEL-ROOT>../temp/tmpwo469zj6/model</MODEL-ROOT>
+        <PEER-ROOT>../temp/tmpwo469zj6/system</PEER-ROOT>
+        <INPUT-FORMAT TYPE="SEE">
+        </INPUT-FORMAT>
+        <PEERS>
+            <P ID="1">cand.2.txt</P>
+        </PEERS>
+        <MODELS>
+            <M ID="A">ref.2.txt</M>
+        </MODELS>
+    </EVAL>
+
+    <EVAL ID="4">
+        <MODEL-ROOT>../temp/tmpwo469zj6/model</MODEL-ROOT>
+        <PEER-ROOT>../temp/tmpwo469zj6/system</PEER-ROOT>
+        <INPUT-FORMAT TYPE="SEE">
+        </INPUT-FORMAT>
+        <PEERS>
+            <P ID="1">cand.3.txt</P>
+        </PEERS>
+        <MODELS>
+            <M ID="A">ref.3.txt</M>
+        </MODELS>
+    </EVAL>
+
+    <EVAL ID="5">
+        <MODEL-ROOT>../temp/tmpwo469zj6/model</MODEL-ROOT>
+        <PEER-ROOT>../temp/tmpwo469zj6/system</PEER-ROOT>
+        <INPUT-FORMAT TYPE="SEE">
+        </INPUT-FORMAT>
+        <PEERS>
+            <P ID="1">cand.4.txt</P>
+        </PEERS>
+        <MODELS>
+            <M ID="A">ref.4.txt</M>
+        </MODELS>
+    </EVAL>
+
+    <EVAL ID="6">
+        <MODEL-ROOT>../temp/tmpwo469zj6/model</MODEL-ROOT>
+        <PEER-ROOT>../temp/tmpwo469zj6/system</PEER-ROOT>
+        <INPUT-FORMAT TYPE="SEE">
+        </INPUT-FORMAT>
+        <PEERS>
+            <P ID="1">cand.5.txt</P>
+        </PEERS>
+        <MODELS>
+            <M ID="A">ref.5.txt</M>
+        </MODELS>
+    </EVAL>
+</ROUGE-EVAL>

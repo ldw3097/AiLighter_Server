@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>삼성/nnp 라이온즈/nnp 가/jks 내부/nng 프리에이전트/nng (/ss fa/sl )/ss 윤성환/nnp (/ss 38/sn ·/sp 사진/nng )/ss 과/jc 극적/nng 으로/jkb 협상/nng 을/jko 타결/nng 하/xsv 었/ep 다/ef</a>
+<a name="2">[2]</a> <a href="#2" id=2>삼성/nnp 은/jx 29/sn 일/nnb 윤성환/nnp 과/jc 계약/nng 기간/nng 1/sn 년/nnb 에/jkb 총액/nng 10/sn 억/nr 원/nnb 에/jkb 계약/nng 을/jko 맺/vv 었/ep 다고/ec 발표/nng 하/xsv 었/ep 다/ef</a>
+<a name="3">[3]</a> <a href="#3" id=3>2015/sn 년/nnb 17/sn 승/nnb ,/sp 2016/sn 년/nnb 12/sn 승/nnb ,/sp 2017/sn 년/nnb 11/sn 승/nnb 을/jko 올리/vv 는/etm 등/nnb 3/sn 년/nnb 동안/nng 40/sn 승/nnb 27/sn 패/nnb 평균/nng 자책/nng 점/xsn 4.12/sn 로/jkb 삼성/nnp 의/jkg 전성/nng 기/xsn 를/jko 이끌/vv 었/ep 다/ef</a>
+</body>
+</html>

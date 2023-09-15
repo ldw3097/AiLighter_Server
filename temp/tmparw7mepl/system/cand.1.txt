@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>남양주시/nnp 금곡홍유릉/nnp 상점/nng 가/xsn 가/jks 상인/nng 회/xsn 등록/nng 을/jko 마치/vv 어/ec 침체/nng 되/xsv ㄴ/etm 금곡동/nnp 에/jkb 상권/nng 활성/nng 화/xsn 의/jkg 신호/nng 탄/nng 이/jkc 되/vv ㄹ/etm 것/nnb 으로/jkb 기대/nng 를/jko 모으/vv 고/ec 있/vx 다/ef</a>
+<a name="2">[2]</a> <a href="#2" id=2>이/np 에/jkb 상인/nng 들/xsn 은/jx 스스로/mag 상권/nng 을/jko 살리/vv 기/etn 위하/vv 어/ec 상인/nng 회/xsn 결성/nng 의/jkg 필요/nng 성/xsn 을/jko 모색/nng 하/xsv 었/ep 다/ef</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>대구시/nnp 가/jks 지나/vv ㄴ/etm 18/sn 일/nnb ‘/ss 2019/sn 년/nnb 민원/nng 제도/nng 개선/nng 우수/nng 사례/nng 경진/nng 대회/nng ’/ss 를/jko 개최/nng 하/xsv 어/ec 시민/nng 불편/nng 을/jko 해소/nng 하/xsv 거나/ec 행정/nng 서비스/nng 수준/nng 을/jko 향상/nng 시키/xsv ㄴ/etm 5/sn 건/nnb 의/jkg 우수/nng 사례/nng 를/jko 선정/nng 하/xsv 었/ep 다/ef</a>
+<a name="2">[2]</a> <a href="#2" id=2>북구청/nnp 은/jx 다/xpn 자녀/nng 가족/nng 의/jkg 안전/nng 하/xsa ㄴ/etm 여가/nng 활동/nng 및/maj 생활/nng 편/nnb 의/jkg 증진/nng 을/jko 위하/vv 어/ec 만/nr 6/sn 세/nnb 미만/nng 영/nng 유아/nng 가/jks 넷/nr (/ss 4/sn )/ss 이상/nng 이/vcp ㄴ/etm 가정/nng 을/jko 대상/nng 으로/jkb 7/sn 인/nng 승/nnb 이상/nng 승합/nng 차량/nng 과/jc 카시트/nng 를/jko 렌트/nng 하/xsv ㄹ/etm 수/nnb 있/va 도록/ec 지원/nng 하/xsv 어/ec 주/vx 는/etm 적극/nng 적/xsn 이/vcp ㄴ/etm 민원/nng 서비스/nng 를/jko 추진/nng 하/xsv 어/ec 높/va 은/etm 평점/nng 을/jko 받/vv 았/ep 다/ef</a>
+<a name="3">[3]</a> <a href="#3" id=3>이번/nng 에/jkb 선정/nng 되/xsv ㄴ/etm 5/sn 개/nnb 우수/nng 사례/nng 는/jx 향후/nng 대구시/nnp 자체/nng 시상/nng 을/jko 하/vv ㄹ/etm 예정/nng 이/vcp 며/ec ,/sp 이/mm 중/nnb 고/xpn 득점/nng 3/sn 개/nnb 사례/nng 는/jx 행정/nng 안전/nng 부/xsn 가/jks 주관/nng 하/xsv 는/etm 전국/nng 경진/nng 대회/nng 에/jkb 대구시/nnp 우수/nng 사례/nng 로/jkb 추천/nng 하/xsv ㄴ다/ef</a>
+</body>
+</html>

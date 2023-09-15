@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>오/vv 는/etm 21/sn 일/nnb 원내/nng 에서/jkb 열리/vv 는/etm 이번/nng 심포지엄/nng 은/jx 올해/nng 세/mm 번째/nnb 로/jkb 우촌/nng 심/nng 뇌/nng 혈관/nng 연구/nng 재단/nng 과/jc 세종병원/nnp 이/jks 공동/nng 주최/nng 하/xsv 고/ec ,/sp 대한신경/nnp 중재/nng 치료/nng 의학/nng 회/xsn (/ss ksin/sl )/ss 와/jc 메디플렉스/nnp 세종병원/nnp 이/jks 후원/nng 하/xsv ㄴ다/ef</a>
+<a name="2">[2]</a> <a href="#2" id=2>뇌/nng 혈관/nng 해부/nng 학/xsn 의/jkg 대가/nng 로/jkb 3/sn d/sl 이미지/nng 를/jko 이용/nng 하/xsv ㄴ/etm 강의/nng 와/jc 연구/nng 로/jkb 활약/nng 하/xsv 고/ec 있/vx 는/etm 프랑스/nnp 앙제대학/nnp 신경/nng 외과/nng 의/jkg 필립/nnp 교수/nng 를/jko 강사/nng 로/jkb 초청/nng 하/xsv 었/ep 다/ef</a>
+<a name="3">[3]</a> <a href="#3" id=3>또한/mag 미국/nnp 뉴욕대/nnp ,/sp 하버드/nnp 의과/nng 대학/nng 부/xpn 교수/nng 를/jko 거치/vv 어/ec 현재/mag 터프트/nng 의과/nng 대학/nng 영상/nng 의학/nng 과/xsn 교수/nng 로/jkb 재직/nng 중/nnb 이/vcp ㄴ/etm 뇌/nng 신경/nng 계/xsn 영상/nng 의학/nng 권위/nng 자/xsn 최인섭/nnp (/ss 메디플렉스/nnp 세종병원/nnp 뇌/nng 혈관/nng 센터/nng 장/xsn )/ss 교수/nng 가/jks 혈관조/nng 영술/nng 을/jko 토대/nng 로/jkb 하/vv ㄴ/etm 강의/nng 를/jko 맡/vv 아/ec 해부/nng 학/xsn 적/xsn 지식/nng 이/jks 뇌/nng 혈관/nng 중재/nng 치료/nng 에/jkb 적용/nng 되/xsv ㄹ/etm 수/nnb 있/va 도록/ec 프로그램/nng 을/jko 구성/nng 하/xsv 었/ep 다/ef</a>
+</body>
+</html>
