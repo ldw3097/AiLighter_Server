@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>대구시/nnp 가/jks 지나/vv ㄴ/etm 18/sn 일/nnb ‘/ss 2019/sn 년/nnb 민원/nng 제도/nng 개선/nng 우수/nng 사례/nng 경진/nng 대회/nng ’/ss 를/jko 개최/nng 하/xsv 어/ec 시민/nng 불편/nng 을/jko 해소/nng 하/xsv 거나/ec 행정/nng 서비스/nng 수준/nng 을/jko 향상/nng 시키/xsv ㄴ/etm 5/sn 건/nnb 의/jkg 우수/nng 사례/nng 를/jko 선정/nng 하/xsv 었/ep 다/ef</a>
+<a name="2">[2]</a> <a href="#2" id=2>이번/nng 경진/nng 대회/nng 는/jx 시/nng 본/xpn 청/xsn 과/jc 8/sn 개/nnb 구/nng ·/sp 군/nng 에서/jkb 최근/nng 2/sn 년/nnb 이내/nng 에/jkb 추진/nng 하/xsv ㄴ/etm 민원/nng 제도/nng 개선/nng 우수/nng 사례/nng 44/sn 건/nnb 을/jko 발굴/nng 하/xsv 어/ec 1/sn 차/nnb 서면/nng 심사/nng 를/jko 통하/vv 어/ec 선정/nng 되/xsv ㄴ/etm 10/sn 개/nnb 사례/nng 를/jko 발표/nng 하/xsv 는/etm 자리/nng 로/jkb 시민/nng 중심/nng 의/jkg 민원/nng 서비스/nng 품질/nng 제고/nng 를/jko 위하/vv 어/ec 마련/nng 하/xsv 었/ep 다/ef</a>
+<a name="3">[3]</a> <a href="#3" id=3>심사/nng 결과/nng ‘/ss 전국/nng 최초/nng 가족/nng 맞춤/nng 다둥/nng 이/jks 행복/nng 카/nng 차량/nng 렌탈/nng 지원/nng 사업/nng ’/ss 을/jko 발표/nng 하/xsv ㄴ/etm 북구/nnp (/ss 건강/nng 증진/nng 과/jkb )/ss 가/jks 1/sn 위/nnb 를/jko 차지/nng 하/xsv 었/ep 다/ef</a>
+</body>
+</html>

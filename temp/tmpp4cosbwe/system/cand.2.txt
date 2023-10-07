@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>오/vv 는/etm 21/sn 일/nnb 원내/nng 에서/jkb 열리/vv 는/etm 이번/nng 심포지엄/nng 은/jx 올해/nng 세/mm 번째/nnb 로/jkb 우촌/nng 심/nng 뇌/nng 혈관/nng 연구/nng 재단/nng 과/jc 세종병원/nnp 이/jks 공동/nng 주최/nng 하/xsv 고/ec ,/sp 대한신경/nnp 중재/nng 치료/nng 의학/nng 회/xsn (/ss ksin/sl )/ss 와/jc 메디플렉스/nnp 세종병원/nnp 이/jks 후원/nng 하/xsv ㄴ다/ef</a>
+<a name="2">[2]</a> <a href="#2" id=2>올해/nng 프로그램/nng 은/jx 지난해/nng 참가/nng 자/xsn 들/xsn 에게서/jkb 크/va ㄴ/etm 호응/nng 을/jko 얻/vv 은/etm 바/nnb 있/va 는/etm 뇌/nng 혈관/nng 해부/nng 학/xsn 을/jko 주제/nng 로/jkb 다시/mag 한/mm 번/nnb 개최/nng 되/xsv ㄴ다/ef</a>
+<a name="3">[3]</a> <a href="#3" id=3>국내/nng 최초/nng 이/vcp 자/ec 유일/nng 의/jkg 의료/nng 복합/nng 체/xsn (/ss medical/sl complex/sl )/ss 메디플렉스/nnp 세종병원/nnp 은/jx ‘/ss 뇌/nng 혈관/nng 중재/nng 치료/nng 심포지엄/nng ’/ss 을/jko 개최/nng 하/xsv ㄴ다고/ec 3/sn 일/nnb 밝히/vv 었/ep 다/ef</a>
+</body>
+</html>

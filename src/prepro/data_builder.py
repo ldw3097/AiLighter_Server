@@ -18,6 +18,7 @@ from pytorch_pretrained_bert import BertTokenizer
 from others.logging import logger
 from others.utils import clean
 from prepro.utils import _get_word_ngrams
+import easydict
 
 
 def convert_to_unicode(text):
@@ -193,6 +194,8 @@ def greedy_selection(doc_sent_list, abstract_sent_list, summary_size):
 
     return sorted(selected)
 
+    
+
 
 def hashhex(s):
     """Returns a heximal formated SHA1 hash of the input string."""
@@ -254,6 +257,49 @@ class BertData():
 
         tgt_txt = '<q>'.join([' '.join(tt) for tt in tgt])
         src_txt = [original_src_txt[i] for i in idxs]
+        return src_subtoken_idxs, labels, segments_ids, cls_ids, src_txt, tgt_txt
+    
+    def preprocess_wo_label(self, src, original_text):
+
+        if (len(src) == 0):
+            return None
+
+        labels = [0] * len(src)
+
+        idxs = [i for i, s in enumerate(src) if (len(s) > self.args.min_src_ntokens)]
+
+        src = [src[i][:self.args.max_src_ntokens] for i in idxs]
+        labels = [labels[i] for i in idxs]
+        src = src[:self.args.max_nsents]
+        labels = labels[:self.args.max_nsents]
+
+        if (len(src) < self.args.min_nsents):
+            return None
+        if (len(labels) == 0):
+            return None
+
+        src_txt = [' '.join(sent) for sent in src]
+        # text = [' '.join(ex['src_txt'][i].split()[:self.args.max_src_ntokens]) for i in idxs]
+        # text = [_clean(t) for t in text]
+        text = ' [SEP] [CLS] '.join(src_txt)
+        src_subtokens = text.split(' ')
+        src_subtokens = src_subtokens[:510]
+        src_subtokens = ['[CLS]'] + src_subtokens + ['[SEP]']
+
+        src_subtoken_idxs = self.tokenizer.convert_tokens_to_ids(src_subtokens)
+        _segs = [-1] + [i for i, t in enumerate(src_subtoken_idxs) if t == self.sep_vid]
+        segs = [_segs[i] - _segs[i - 1] for i in range(1, len(_segs))]
+        segments_ids = []
+        for i, s in enumerate(segs):
+            if (i % 2 == 0):
+                segments_ids += s * [0]
+            else:
+                segments_ids += s * [1]
+        cls_ids = [i for i, t in enumerate(src_subtoken_idxs) if t == self.cls_vid]
+        labels = labels[:len(cls_ids)]
+
+        tgt_txt = "none"
+        src_txt = original_text
         return src_subtoken_idxs, labels, segments_ids, cls_ids, src_txt, tgt_txt
         
 
@@ -335,30 +381,64 @@ def _format_to_bert(params):
     datasets = []
     gc.collect()
 
+    
+
+def format_to_dict(src, original_text):
+    args = easydict.EasyDict({
+        "mode": "",
+        "oracle_mode": "greedy",
+        "map_path": "../data/",
+        "raw_path": "../line_data/",
+        "save_path": "../bert_data/",
+        "vocab_file_path": "/home/dongwon/001_bert_morp_pytorch/vocab.korean_morp.list",
+        "shard_size": 2000,
+        "min_nsents": 3,
+        "max_nsents": 100,
+        "min_src_ntokens": 5,
+        "max_src_ntokens": 200,
+        "lower": True,
+        "dataset": "",
+        "n_cpus": 2
+    })
+    bert = BertData(args)
+
+    datasets = []
+    b_data = bert.preprocess_wo_label(src, original_text)
+    indexed_tokens, labels, segments_ids, cls_ids, src_txt, tgt_txt = b_data
+    b_data_dict = {"src": indexed_tokens, "labels": labels, "segs": segments_ids, 'clss': cls_ids,
+                    'src_txt': src_txt, "tgt_txt": tgt_txt}
+    datasets.append(b_data_dict)
+    return datasets
 
 def format_to_lines(args):
-    corpus_mapping = {}
-    for corpus_type in ['valid', 'test', 'train']:
-        temp = []
-        for line in open(pjoin(args.map_path, 'mapping_' + corpus_type + '.txt')):
-            temp.append(hashhex(line.strip()))
-        corpus_mapping[corpus_type] = {key.strip(): 1 for key in temp}
+    # corpus_mapping = {}
+    # for corpus_type in ['valid', 'test', 'train']:
+    #     temp = []
+    #     for line in open(pjoin(args.map_path, 'mapping_' + corpus_type + '.txt')):
+    #         temp.append(hashhex(line.strip()))
+    #     corpus_mapping[corpus_type] = {key.strip(): 1 for key in temp}
+    # train_files, valid_files, test_files = [], [], []
+    # for f in glob.glob(pjoin(args.raw_path, '*.json')):
+    #     real_name = f.split('/')[-1].split('.')[0]
+    #     if (real_name in corpus_mapping['valid']):
+    #         valid_files.append(f)
+    #     elif (real_name in corpus_mapping['test']):
+    #         test_files.append(f)
+    #     elif (real_name in corpus_mapping['train']):
+    #         train_files.append(f)
     train_files, valid_files, test_files = [], [], []
     for f in glob.glob(pjoin(args.raw_path, '*.json')):
-        real_name = f.split('/')[-1].split('.')[0]
-        if (real_name in corpus_mapping['valid']):
-            valid_files.append(f)
-        elif (real_name in corpus_mapping['test']):
-            test_files.append(f)
-        elif (real_name in corpus_mapping['train']):
-            train_files.append(f)
+        train_files.append(f)
+
 
     corpora = {'train': train_files, 'valid': valid_files, 'test': test_files}
     for corpus_type in ['train', 'valid', 'test']:
         a_lst = [(f, args) for f in corpora[corpus_type]]
+        print(a_lst)
         pool = Pool(args.n_cpus)
         dataset = []
         p_ct = 0
+        print(p_ct)
         for d in pool.imap_unordered(_format_to_lines, a_lst):
             dataset.append(d)
             if (len(dataset) > args.shard_size):
@@ -366,6 +446,7 @@ def format_to_lines(args):
                 with open(pt_file, 'w') as save:
                     # save.write('\n'.join(dataset))
                     save.write(json.dumps(dataset))
+                    print(p_ct)
                     p_ct += 1
                     dataset = []
 
@@ -376,6 +457,7 @@ def format_to_lines(args):
             with open(pt_file, 'w') as save:
                 # save.write('\n'.join(dataset))
                 save.write(json.dumps(dataset))
+                print(p_ct)
                 p_ct += 1
                 dataset = []
 

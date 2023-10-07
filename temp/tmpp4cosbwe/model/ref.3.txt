@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>인천/nnp 은/jx 산둥성/nnp 을/jko 비롯하/vv 어/ec 산둥성/nnp 주요/nng 도시/nng 이/vcp ㄴ/etm 칭다오/nnp (/ss 靑島/sh )/ss ·/sp 옌타이/nnp (/ss 煙臺/sh )/ss 시/nng 와/jc 우호/nng 도시/nng 관계/nng 이/vcp 다/ef</a>
+<a name="2">[2]</a> <a href="#2" id=2>또/mag 미래/nng 인/nng 적/xsn 자산/nng 으로서/jkb 청/nng 소년/nng 및/maj 학생/nng 들/xsn 의/jkg 교류/nng 활성/nng 화/xsn 필요/nng 성/xsn 도/jx 강조/nng 하/xsv 었/ep 다/ef</a>
+<a name="3">[3]</a> <a href="#3" id=3>박남춘/nnp 시장/nng 은/jx "/ss 두/mm 지역/nng 의/jkg 상생/nng 발전/nng 을/jko 위하/vv ㄴ/etm 기술/nng 협력/nng ,/sp 상호/nng 인증/nng ,/sp 문화/nng ·/sp 관광/nng 융합/nng 콘텐츠/nng 개발/nng 및/maj 한중/nnp fta/sl 지방/nng 경제/nng 협력/nng 시범/nng 사업/nng 의/jkg 성과/nng 를/jko 발전/nng 시키/xsv 어/ec 두/mm 나라/nng 간/nnb fta/sl 선도/nng 지역/nng 의/jkg 역할/nng 을/jko 지속/nng 적/xsn 으로/jkb 실천/nng 하/xsv ㄹ/etm 필요/nng 가/jks 있/va 다/ef "/ss 며/ec "/ss 미래/nng 지향/nng 적/xsn 가치/nng 창출/nng 을/jko 위하/vv 어/ec 공동/nng 과제/nng 를/jko 발굴/nng 하/xsv 고/ec 추진/nng 하/xsv 어/ec 나가/vx 자/ef "/ss 고/jkq 말/nng 하/xsv 었/ep 다/ef</a>
+</body>
+</html>

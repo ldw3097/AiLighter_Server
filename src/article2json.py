@@ -17,13 +17,13 @@ def get_src(file_path):
                     del article[article.index(sentence)]
 
             # analyze morphs via Kiwi tokenizer
-            
+            # article = 한 문단
             temp_list2 = list()
             for j in range(2, len(article)):
                 print(article[j])
                 
                 for idx in range(len(article[j])):
-                    kiwi = Kiwi(num_workers=12)
+                    kiwi = Kiwi(num_workers=6)
                     temp_list1 = list()
                     tokenize_list = kiwi.tokenize(article[j][idx]["sentence"])[:-1]
 
@@ -37,6 +37,12 @@ def get_src(file_path):
             json.dump(src_list, file, ensure_ascii=False)
 
         return src_list
+
+
+
+
+
+        
     
 def get_extra_indices(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
