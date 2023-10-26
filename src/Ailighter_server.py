@@ -10,6 +10,11 @@ from prepro.data_builder import format_to_dict
 from others.logging import logger
 from others.logging import logger
 from models.trainer import build_trainer
+import logging
+
+# 로깅을 위한 부분
+logging.basicConfig(level=logging.DEBUG)
+logger = logging.getLogger("Debug_logger")
 
 # bertsum을 위한 파라미터 지정
 args = easydict.EasyDict(
@@ -116,13 +121,14 @@ kiwi = Kiwi(num_workers=6)
 
 
 @app.post("/")
-def highlight(list: Item):
-    contents = list.data.get("content")
-    crawled = json.load(contents)["content"]
-    postagged = list()
+def highlight(input_list: Item):
+    crawled = input_list.data.get("content")
+    logger.info(crawled)
+    # crawled = json.load(contents)["content"]
+    postagged = []
     tokenize_list = list(kiwi.tokenize(crawled))
     for sen in tokenize_list:
-        sen_pos = list()
+        sen_pos = []
         for char in sen:
             token = char.form + "/" + char.tag
             sen_pos.append(token)
@@ -130,10 +136,7 @@ def highlight(list: Item):
     news = format_to_dict(postagged, crawled)
     summary_result = summary(args, news, 0, "", None)[0]
 
-    logging.info(summary_result)
+    logger.info(summary_result)
     new_list = summary_result.split("<q>")
 
-    new_list.append(contents[0])
-    new_list.append(contents[1])
-    new_list.append(contents[2])
     return {"content": new_list}
