@@ -10,6 +10,7 @@ from prepro.data_builder import format_to_dict
 from others.logging import logger
 from others.logging import logger
 from models.trainer import build_trainer
+from starlette.middleware.cors import CORSMiddleware
 import logging
 
 # 로깅을 위한 부분
@@ -101,6 +102,18 @@ def _lazy_dataset_loader(pt_file):
 
 
 app = FastAPI()
+
+origins = [
+    "*"
+]
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 logging.basicConfig(level=logging.INFO)
 
