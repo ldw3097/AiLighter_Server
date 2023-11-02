@@ -136,8 +136,14 @@ kiwi = Kiwi(num_workers=6)
 @app.post("/")
 def highlight(input_list: Item):
     crawled = input_list.data.get("content")
+    crawled = [s.strip() for s in crawled]
+    crawled = [sentence for sentence in crawled if (sentence.count(' ') > 1 
+                                                    and '@' not in sentence 
+                                                    and '©' not in sentence
+                                                    and sentence[0].isalnum())]
+
+    logger.info('crawled: ')
     logger.info(crawled)
-    # crawled = json.load(contents)["content"]
     postagged = []
     tokenize_list = list(kiwi.tokenize(crawled))
     for sen in tokenize_list:
@@ -148,8 +154,7 @@ def highlight(input_list: Item):
         postagged.append(sen_pos)
     news = format_to_dict(postagged, crawled)
     summary_result = summary(args, news, 0, "", None)[0]
-
-    logger.info(summary_result)
     new_list = summary_result.split("<q>")
+    logger.info(new_list)
 
     return {"content": new_list}
