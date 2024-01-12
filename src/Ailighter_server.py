@@ -144,6 +144,8 @@ def highlight(input_list: Item):
 
     logger.info('crawled: ')
     logger.info(crawled)
+    if len(crawled) == 0:
+        return {"content" : ['error - received nothing']}
     postagged = []
     tokenize_list = list(kiwi.tokenize(crawled))
     for sen in tokenize_list:
